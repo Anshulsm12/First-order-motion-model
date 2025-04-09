@@ -1,0 +1,262 @@
+[33mcommit c0274845cb2dd8f0f2fe6da580d97b60fef90c91[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: f4ff6da 71a71b5
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Wed Nov 13 19:16:41 2024 -0800
+
+    Merge pull request #597 from BobConanDev/master
+    
+    Update README.md, fix typo(s)
+
+[33mcommit f4ff6da1ef5c0e6bcf6ec80324fab37c92193e84[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Tue Jun 6 12:59:28 2023 -0700
+
+    Update LICENSE.md
+
+[33mcommit 9d5f51db75ed976d68ca046f73db604439478a38[m
+Merge: 96127d6 480613e
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Mon Jun 5 13:17:22 2023 -0700
+
+    Merge pull request #570 from graphemecluster/master
+    
+    Fix demo error with custom video
+
+[33mcommit 96127d60237ae9a352b5118679afdc9f3fab7a71[m
+Merge: 95f30b5 9802298
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Fri Jun 2 13:12:53 2023 -0700
+
+    Merge pull request #518 from graphemecluster/master
+    
+    Update Other Dependencies
+
+[33mcommit 95f30b5a1e4cf43420dcb10923809ab03e2d16c4[m
+Merge: 83f9c3a 1053449
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Fri Jun 2 13:11:42 2023 -0700
+
+    Merge pull request #365 from 8secz-johndpope/patch-1
+    
+    bump docker base image
+
+[33mcommit 83f9c3a291598d0805813ffd70d4c1fbbe4d92bf[m
+Merge: 48ded10 aaa94fc
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Fri Jun 2 13:11:02 2023 -0700
+
+    Merge pull request #519 from lsternlicht/master
+    
+    add jupyter demo
+
+[33mcommit 48ded102ecefd099e27d88a1db29509bb2f3ffa8[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Fri Jun 2 13:08:33 2023 -0700
+
+    Update README.md
+
+[33mcommit 22795f598c1c31c336d4a1f1bf09edd87057fe93[m
+Merge: c6996b9 8c81e2f
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Fri Jun 2 13:04:53 2023 -0700
+
+    Merge pull request #526 from osanseviero/patch-1
+    
+    Add link to open source demo
+
+[33mcommit c6996b940b91e4a00508237e23741c04ca570d97[m
+Merge: 3d152de 1242092
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu May 4 10:09:05 2023 -0700
+
+    Merge pull request #565 from sheth2chintan/fix_demo_pad
+    
+    update augmentation.py
+
+[33mcommit 3d152de07e51dcd00358475c0defbf8f85b2ab3e[m
+Merge: 83b8692 0fa13f7
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Dec 8 14:58:04 2022 -0800
+
+    Merge pull request #531 from graphemecluster/checkpoints
+    
+    Fix Checkpoints Location
+
+[33mcommit 83b86924a26fb4e061aeecac90fd792ed4d8f3d8[m
+Merge: 9cfaaa4 d861745
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Fri Sep 30 18:29:06 2022 -0700
+
+    Merge pull request #517 from graphemecluster/master
+    
+    Fix Broken Demo
+
+[33mcommit 9cfaaa4bcdc87e99fef3128eb217efcf15416f4d[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Sep 29 14:43:34 2022 -0700
+
+    Update demo.ipynb
+
+[33mcommit d98c52272c39b554e41226692a7e47d94ad22e28[m
+Merge: 943cd13 e8cc504
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Sep 29 14:25:00 2022 -0700
+
+    Merge pull request #374 from or-toledano/create_image_column
+    
+    Create image column quick change
+
+[33mcommit 943cd1343c01506869dbd19bf9477b536cc34dc7[m
+Merge: 3b8a2fc 2c66cd6
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Sep 29 14:23:26 2022 -0700
+
+    Merge pull request #506 from AliaksandrSiarohin/dependabot/pip/numpy-1.22.0
+    
+    Bump numpy from 1.15.0 to 1.22.0
+
+[33mcommit 3b8a2fc6dda3d77ef593894425d85689147f524b[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Sep 29 14:23:08 2022 -0700
+
+    Update requirements.txt
+
+[33mcommit 7d04b4d15c0e9a0a4846aba472773ff3f979f2ad[m
+Merge: 48174e1 5f3dee0
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Sep 29 14:21:12 2022 -0700
+
+    Merge pull request #510 from marcasty/patch-1
+    
+    Update demo.py; load() is broken
+
+[33mcommit 48174e10e55d0d7aa1544489e08a4bb4f97e400e[m
+Merge: ca49071 310f523
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Sep 29 14:19:09 2022 -0700
+
+    Merge pull request #484 from hamin-lee/master
+    
+    feat: adds audio_on option (#434)
+
+[33mcommit ca49071ce60051200f58f03a0e4e65e675a54e27[m
+Merge: 3ffe3f2 99f18fc
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Wed Jun 30 23:17:39 2021 +0300
+
+    Merge pull request #445 from graphemecluster/master
+    
+    Update demo.ipynb
+
+[33mcommit 3ffe3f208d078db539f8c584a4d1757b6b805d2c[m
+Merge: 9ffd606 67cf9b7
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Fri May 28 23:48:01 2021 +0300
+
+    Merge pull request #432 from pizzaz93/patch-1
+    
+    Add Open in Kaggle badge
+
+[33mcommit 9ffd6069df29306f145535ea35d21066744e89fa[m
+Merge: c68adcf f0aa484
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Wed May 26 22:03:46 2021 +0300
+
+    Merge pull request #427 from graphemecluster/master
+    
+    Demo: Add Comparison and Fix Bug
+
+[33mcommit c68adcf67b415a114eccc288653de5b6991cad20[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Sat May 15 18:09:16 2021 +0300
+
+    Fix old demo colab path.
+
+[33mcommit 961f6028148e6dd951b99d74b8633d7de9b00e38[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu May 13 04:47:21 2021 +0300
+
+    Update README.md
+
+[33mcommit 78f75c86529f78a422b8112dd2e0be5c28e121aa[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu May 13 04:45:59 2021 +0300
+
+    Update README.md
+
+[33mcommit f748b5ff2396df9ce4cc6cab013201cdc71e8e59[m
+Merge: 31628f8 bff076f
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu May 13 04:43:40 2021 +0300
+
+    Merge pull request #415 from graphemecluster/master
+    
+    Add gui-demo.
+
+[33mcommit 31628f83235c5b6307bb1ae34c7c4c02ac3a5886[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Apr 29 19:47:36 2021 +0300
+
+    Update README.md
+    
+    Add reference to the new paper.
+
+[33mcommit d6883c867b15989a0a7801a909c4056a5cf405b3[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Wed Mar 24 00:01:08 2021 +0300
+
+    Update requirements.txt
+    
+    Simplify requirements.
+
+[33mcommit 72f55bd2ed6e30cbbb84928399ecf7a33f4c5538[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Wed Dec 23 21:36:11 2020 +0300
+
+    Update README.md
+
+[33mcommit 898921d03c5d14032cc128bbd91f4d2b6d422e16[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Wed Dec 23 21:35:32 2020 +0300
+
+    Fix pytorch>1.0 issue.
+
+[33mcommit a15d4597ca189f9c4dfb43f7788cccbf8c41a7c3[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Oct 1 16:35:16 2020 +0200
+
+    Created using Colaboratory
+
+[33mcommit a8ed412d04d7286cc1bb1b2de07b910ac2ded602[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Wed Sep 16 16:49:12 2020 +0300
+
+    Add additional link to drive
+
+[33mcommit 78079d14396052dea55a1ee6a4432fb13da61c53[m
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Aug 13 02:42:59 2020 +0300
+
+    Update README.md
+    
+    Fix bair link
+
+[33mcommit 23361c67d93f17df369b197488bb5df2c68bee82[m
+Merge: 9e7a1ae 9088fe5
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Thu Aug 13 02:22:11 2020 +0300
+
+    Merge pull request #228 from lobomfz/patch-1
+    
+    Fix skbuild error
+
+[33mcommit 9e7a1ae6b0cc1090c40cd3f3a4c3d9d20f482649[m
+Merge: ebb4b93 264139d
+Author: [1;31mAliaksandrSiarohin[m <Aliaksandr.Siarohin@gmail.com>
+Date:   Sun May 24 12:15:07 2020 -0700
+
+    Merge pull request #143 from KMielnik/fix
+    
+    Fix crop-video scale argument
+
+[33mcommit ebb4b9371c585cf623
