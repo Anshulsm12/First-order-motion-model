@@ -1,4 +1,4 @@
-# First Order Motion Model for Image Animatio
+# First Order Motion Model for Image Animation
 
 This repository contains an implementation of image animation using a First Order Motion Model.
 
