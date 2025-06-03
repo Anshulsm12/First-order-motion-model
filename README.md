@@ -91,5 +91,5 @@ CUDA_VISIBLE_DEVICES=0 python run.py --config config/dataset_name.yaml --mode an
 3) Create config ```config/dataset_name.yaml```
 
 Last Updated: 2025-04-09 16:23:30 UTC
-Maintained by: Anshulsm12
+Maintained by: Anshulsm12, anishqt, Dhruvsr
 
