@@ -4,7 +4,7 @@ This repository contains an implementation of image animation using a First Orde
 
 ## Example animations
 
-The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos. The bottom row contains the animated sequences with motion transferred from the driving video and object taken from the source image.
+The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos. The bottom row contains the animated sequences with motion transferred from the driving video and object taken from the source image.This is how the working in the project is done.
 
 ### VoxCeleb Dataset
 ![Screenshot](sup-mat/vox-teaser.gif)
